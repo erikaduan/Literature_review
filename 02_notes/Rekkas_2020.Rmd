@@ -1,0 +1,21 @@
+---
+output: html_notebook
+---
+
+### Research paper  
+
+[Predictive approaches to heterogeneous treatment effects: a scoping review](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-020-01145-1)   
+*BMC Medical Research Methodology* 2020    
+
+### Authors   
+
++ Alexandros Rekkas  
++ Jessica K. Paulus  
++ Gowri Raman  
++ John B. Wong  
++ Ewout W. Steyerberg1  
++ Peter R. Rijnbeek  
++ David M. Kent   
++ David van Klaveren    
+    
+### Thoughts  
